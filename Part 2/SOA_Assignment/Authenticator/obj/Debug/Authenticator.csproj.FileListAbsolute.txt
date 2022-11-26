@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\bin\Debug\Authenticator.exe.config
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\bin\Debug\Authenticator.exe
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\bin\Debug\Authenticator.pdb
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\obj\Debug\Authenticator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\obj\Debug\Authenticator.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\obj\Debug\Authenticator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\obj\Debug\Authenticator.csproj.CopyComplete
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\obj\Debug\Authenticator.exe
+C:\Users\USER\Desktop\Y3S2\Distributed Computing\DC Assignment 1\Part 2\SOA_Assignment\Authenticator\obj\Debug\Authenticator.pdb

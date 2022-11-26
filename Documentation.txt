@@ -1,0 +1,41 @@
+1.
+
+If you want to add new Service.
+
+STEP1:
+Go to "ServiceProvider" project
+
+STEP2:
+Go to "Controllers" folder
+
+STEP 3:
+Select "Service Controller.cs"
+
+STEP 4:
+Add your "AddFour" method service in the file
+
+STEP 5:
+Make sure you done the routing
+
+STEP 6:
+Debug "Registry" project
+
+STEP 7:
+Login
+
+STEP 8:
+Select publish
+
+STEP 9:
+Fill in the service details including the correct API endpoints
+
+STEP10:
+The service should be stored in the registry.txt automatically after that.
+
+STEP11:
+Debug "ClientGUI" project and you can start using the new service.
+
+
+
+2. 
+I worked on all parts, I am not doing it with a member. 
